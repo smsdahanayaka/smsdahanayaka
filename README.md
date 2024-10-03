@@ -1,7 +1,7 @@
 Hi, 🧑🏻‍💻 My name is Shan.....
 =================================================
 
-Software Engineer
+Software Engineer / Blockchain Developer
 -----------------
 
 A professional key presser who turns characters into interesting web things
